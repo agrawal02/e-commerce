@@ -1,0 +1,31 @@
+*{
+  font-family:iran_sans_light;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  text-transform: none;
+  transition: all .2s linear;
+}
+html{
+  font-size: 60%;
+  scroll-padding-top: 6rem;
+  scroll-behavior: smooth;
+}
+.btn{
+  display: inline-block;
+  margin-top: 1rem;
+  border-radius: .5rem;
+  border: none;
+  background-color: orangered;
+  font-weight: bolder;
+  font-size: 1.7rem;
+  color: white;
+  cursor: pointer;
+  background:orangered;
+  padding: .8rem 1rem;
+  text-transform: uppercase;
+  
+}
